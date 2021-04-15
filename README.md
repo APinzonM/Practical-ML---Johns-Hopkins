@@ -1,4 +1,4 @@
-# Practical-ML Project ---Johns-Hopkins
+# Practical ML Project - Johns Hopkins University
 Practical ML Course Project Week 4 - Data Science Specialization - Johns Hopkins University 
 
 Background
